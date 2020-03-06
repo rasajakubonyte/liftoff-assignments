@@ -7,12 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app will let people add, review, search and delete events happening in 3 different Missouri Historical Society locations. Probably for staff use.
 ### Features
-Include Features here
+Create an event (with date, name, time, location, description, setup needs), edit, delete, search and review events.
 ### Technologies
-Include Technologies here
+Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates
 ### What I'll Have to Learn
-Include what you will need to learn here
+Add different users and notifications(?)
 ### Project Tracker
-Link to your Trello board here
+Link to your Trello board here:
+https://trello.com/b/0kOrRf5q/lift-off
